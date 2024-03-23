@@ -9,7 +9,7 @@ This repo contains a basic example on how to do that.
 To get started with the code on this repo, you need to either *clone* or *download* this repo into your machine as shown below;
 
 ```bash
-git clone https://github.com/MrZeib/Image-to-Ascii-Art.git
+git clone https://github.com/MrZeib/QR-Code-Genrater.git
 ```
 
 ## Dependencies
@@ -17,7 +17,7 @@ git clone https://github.com/MrZeib/Image-to-Ascii-Art.git
 Before you begin playing with the source code, you might need to install dependencies just as shown below;
 
 ```bash
-pip install pywhatkit
+pip install qrcode
 ```
 
 ## Running the App
@@ -26,8 +26,8 @@ To run this code you need to go in your project directory. When you run the scri
 Show You a Prompt "Enter Text" You Have to Put Your Quote;
 
 ```bash
-$-> cd Image-to-Ascii-Art
-$ Image-to-Ascii-Art-> python3 main.py
+$-> cd QR-Code-Genrater
+$ QR-Code-Genrater-> python3 main.py
 ```
 
 ## Explore it 
